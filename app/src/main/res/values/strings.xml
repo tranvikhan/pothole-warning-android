@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pothole Warning</string>
+    <string name="title_home">Bản đồ</string>
+    <string name="title_dashboard">Danh sách tuyến đường</string>
+    <string name="title_notifications">Thông báo</string>
+    <string name="google_maps_key">AIzaSyBsEufidu-bGeooDrRSVSV2BWbFtkpMQZs</string>
+    <string name="map_id">1cf3e892e8f52817</string>
+</resources>

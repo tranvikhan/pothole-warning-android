@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#f1c40f</color>
+    <color name="orange1">#f39c12</color>
+    <color name="orange2">#e67e22</color>
+    <color name="orange3">#d35400</color>
+    <color name="darkblue1">#34495e</color>
+    <color name="darkblue2">#2c3e50</color>
+    <color name="dark1">#353b48</color>
+    <color name="dark2">#2f3640</color>
+    <color name="dark3">#1a1e24</color>
+    <color name="white1">#ecf0f1</color>
+    <color name="white2">#bdc3c7</color>
+    <color name="gray1">#95a5a6</color>
+    <color name="gray2">#7f8c8d</color>
+    <color name="seagreen1">#1abc9c</color>
+    <color name="seagreen2">#16a085</color>
+    <color name="green3">#2ecc71</color>
+    <color name="green4">#27ae60</color>
+    <color name="blue1">#3498db</color>
+    <color name="blue2">#2980b9</color>
+    <color name="red1">#e74c3c</color>
+    <color name="red2">#c0392b</color>
+    <color name="purple1">#9b59b6</color>
+    <color name="purple2">#8e44ad</color>
+</resources>
